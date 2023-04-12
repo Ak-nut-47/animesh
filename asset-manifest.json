@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/animesh/static/css/main.073c9b0a.css",
+    "main.js": "/animesh/static/js/main.db8ed6e2.js",
+    "static/js/787.b4224f61.chunk.js": "/animesh/static/js/787.b4224f61.chunk.js",
+    "static/media/logo.svg": "/animesh/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/animesh/index.html",
+    "main.073c9b0a.css.map": "/animesh/static/css/main.073c9b0a.css.map",
+    "main.db8ed6e2.js.map": "/animesh/static/js/main.db8ed6e2.js.map",
+    "787.b4224f61.chunk.js.map": "/animesh/static/js/787.b4224f61.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.db8ed6e2.js"
+  ]
+}
